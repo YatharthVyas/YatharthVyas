@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/yatharth-vyas-96018319a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yatharth-vyas-96018319a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yatharth2000_vy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@yatharth2000_vy1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yatharth2000_vy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@yatharth2000_vy1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
