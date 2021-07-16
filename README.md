@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthvyas&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthvyas" /> </p>
 <hr>
 <div align="center">
-<img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" />
+<img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" /> <br> <br>
 </div>
 
 <div align="center">
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/yatharth-vyas-96018319a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/yatharthvyas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/yatharthvyas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  <a href = 'https://www.linkedin.com/in/yatharth-vyas-96018319a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
+<a href = 'https://www.twitter.com/yatharthvyas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>   
+<a href = 'https://www.github.com/yatharthvyas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>   
 
 
 
