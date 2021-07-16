@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" />
 </div>
 
+<div>
 <img height="250px" align="left" src="https://beagleboard.org/blog/wp-content/uploads/2018/09/GSoC.png" alt="GSoC" />
 <img height="250px" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyd32h37TW_nLmgoRf5dLDeJBeKXdOeoIPM2hMSf3rOWMlg1Y4h5IagcEXES9uiCx1Pyo&usqp=CAU" alt="GSoC" />
-
+</div>
 
 <br>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
