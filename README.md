@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Yatharth Vyas</h1>
 <h3 align="center">An upscaling full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthvyas&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthvyas" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yatharthvyas.yatharthvyas)
 <hr>
 <div align="center">
 <img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" /> <br> <br>
