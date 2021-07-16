@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 <h3 align="center">An upscaling full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthvyas&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthvyas" /> </p>
-
+<hr>
 <div align="center">
 <img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" />
 </div>
 
-<div>
+<div align="center">
 <img height="250px" align="left" src="https://beagleboard.org/blog/wp-content/uploads/2018/09/GSoC.png" alt="GSoC" />
-<img height="250px" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyd32h37TW_nLmgoRf5dLDeJBeKXdOeoIPM2hMSf3rOWMlg1Y4h5IagcEXES9uiCx1Pyo&usqp=CAU" alt="GSoC" />
+<img height="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyd32h37TW_nLmgoRf5dLDeJBeKXdOeoIPM2hMSf3rOWMlg1Y4h5IagcEXES9uiCx1Pyo&usqp=CAU" alt="GSoC" />
 </div>
-
-<br>
+<hr>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
