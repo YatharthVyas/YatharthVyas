@@ -30,18 +30,18 @@ Here are some ideas to get you started:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on:
-    * Core Feature Enhancement Project on <b>@Joomla</b> as a part of <b>Google Summer of Code</b>
-    * <b><a href="https://github.com/YatharthVyas/Network-Simulator">Network Simulator:</a></b> Webapp build using Svelte to simulate a network of nodes. Each node can have it's own customized packet parsing function that can be used to emulate
-    * <b><a href="https://github.com/YatharthVyas/8086-emulator-web">8086 Emulator:</a></b> Command Line (Rust) + Web App (Web Assembly) for emulating x86 Code Editor and Compiler in a platform independent environment.
-    * <b><a href="https://github.com/YatharthVyas/Online-IDE">CodeBook:</a></b> An online competitive coding problem sharing platform (LeetCode + FaceBook)
-
 - 🌱 I’m currently learning AWS, Tensorflow, Cloud Fuctions 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles, Mentoring, Open Source. 
 
 - 💬 Talk to me about Open Source, Python, JavaScript, Freelancing, GSoC, Unicode, How to submit assignments at the last second 
+
+- 🔭 I've been a part of:
+    * Core Feature Enhancement Project on <b>@Joomla</b> as a part of <b>Google Summer of Code</b>
+    * <b><a href="https://github.com/YatharthVyas/Network-Simulator">Network Simulator:</a></b> Webapp build using Svelte to simulate a network of nodes. Each node can have it's own customized packet parsing function that can be used to emulate
+    * <b><a href="https://github.com/YatharthVyas/8086-emulator-web">8086 Emulator:</a></b> Command Line (Rust) + Web App (Web Assembly) for emulating x86 Code Editor and Compiler in a platform independent environment.
+    * <b><a href="https://github.com/YatharthVyas/Online-IDE">CodeBook:</a></b> An online competitive coding problem sharing platform (LeetCode + FaceBook)
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/yatharthvyas?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
