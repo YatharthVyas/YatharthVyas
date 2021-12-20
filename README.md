@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Yatharth Vyas</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm <a href="https://yatharthvyas.github.io/" target="_blank">Yatharth Vyas</a></h1>
 <h3 align="center">An upscaling full-stack developer from India</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yatharthvyas.yatharthvyas)
+<br>
+<h3><a href="https://yatharthvyas.github.io/" target="_blank">Portfolio Website</a></h3>
 <hr>
 <div align="center">
 <img width="100%" height="250px" src="https://media.giphy.com/media/b4HIIuaYVD2tidifFs/giphy.gif" alt="cover" /> <br> <br>
