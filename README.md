@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning AWS, Tensorflow, Cloud Fuctions 
+- 🌱 I’m currently learning AWS, Tensorflow, Cloud Functions 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles, Mentoring, Open Source. 
 
