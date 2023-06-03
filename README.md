@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm <a href="https://yatharthvyas.github.io/" target="_blank">Yatharth Vyas</a></h1>
-<h3 align="center">An upscaling full-stack developer from India</h3>
+<h3 align="center">An upscaling full-stack developer</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yatharthvyas.yatharthvyas)
 <br>
